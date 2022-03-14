@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @carloshgs
+- 👀 I’m an IT professional, maker, electronics and mechanics enthusiast and now starting dealing with programming.
+- 🌱 I’m currently learning about Arduino and Espressif microcontrollers and C++ language. Planning future mobile programming.
+- 💞️ I’m looking to collaborate on the field of automation and IoT.
